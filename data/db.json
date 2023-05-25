@@ -1,0 +1,104 @@
+{
+  "enteries": [
+    {
+      "id": 1,
+      "description": "Groceries",
+      "expense": 50
+    },
+    {
+      "id": 2,
+      "description": "Salary",
+      "income": 2000
+    },
+    {
+      "id": 3,
+      "description": "Rent",
+      "expense": 1000
+    },
+    {
+      "id": 4,
+      "description": "Dinner",
+      "expense": 30
+    },
+    {
+      "id": 5,
+      "description": "Freelance Work",
+      "income": 500
+    },
+    {
+      "id": 6,
+      "description": "Internet Bill",
+      "expense": 80
+    },
+    {
+      "id": 7,
+      "description": "Petrol",
+      "expense": 40
+    },
+    {
+      "id": 8,
+      "description": "Bonus",
+      "income": 1000
+    },
+    {
+      "id": 9,
+      "description": "Phone Bill",
+      "expense": 60
+    },
+    {
+      "id": 10,
+      "description": "Consulting Fee",
+      "income": 800
+    },
+    {
+      "id": 11,
+      "description": "Gym Membership",
+      "expense": 75
+    },
+    {
+      "id": 12,
+      "description": "Investment Return",
+      "income": 300
+    },
+    {
+      "id": 13,
+      "description": "Travel Expenses",
+      "expense": 200
+    },
+    {
+      "id": 14,
+      "description": "Dividends",
+      "income": 150
+    },
+    {
+      "id": 15,
+      "description": "Medical Bills",
+      "expense": 120
+    },
+    {
+      "id": 16,
+      "description": "Rent Income",
+      "income": 900
+    },
+    {
+      "id": 17,
+      "description": "Restaurant",
+      "expense": 45
+    },
+    {
+      "id": 18,
+      "description": "Refund",
+      "income": 75
+    },
+    {
+      "id": 19,
+      "description": "Electricity Bill",
+      "expense": 85
+    },
+    {
+      "id": 20,
+      "description": "Sales Revenue",
+      "income": 1200
+    }
+  ]
+}
